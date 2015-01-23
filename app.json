@@ -13,5 +13,5 @@
     "apppreview": "false",
     "mobile": "false",
     "relationship": "phaser",
-    "gameEngine": { "name": "Phaser" }
+    "gameEngine": { "name": "phaser" }
 }
