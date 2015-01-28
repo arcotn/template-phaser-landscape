@@ -13,5 +13,6 @@
     "apppreview": "false",
     "mobile": "false",
     "relationship": "phaser",
-    "gameEngine": { "name": "phaser" }
+    "gameEngine": { "name": "phaser" },
+    "projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
