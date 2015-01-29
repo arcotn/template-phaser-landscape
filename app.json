@@ -5,7 +5,7 @@
     "description": "Use this template to start with a blank landscape Game from Phaser",
     "articleUrl": "",
     "keywords": ["Blank Project", "Game","Phaser"],
-    "visible": "false",
+    "visible": "true",
     "highlights": ["Phaser", "Game"],
     "appname": "",
     "abbr": "",
