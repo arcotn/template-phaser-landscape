@@ -1,5 +1,5 @@
 {
-    "reponame": "template-phaser-landscape",
+    "repoName": "template-phaser-landscape",
     "title": "Phaser Game Landscape Template",
     "tooltip": "A blank template for creating games from Phaser",
     "description": "Use this template to start with a blank landscape Game from Phaser",
